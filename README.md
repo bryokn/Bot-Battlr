@@ -22,7 +22,7 @@ This project is a React application that allows users to create their own Bot Ar
 To get started with this project, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Navigate to the project directory.
+2. Navigate to the project directory. `cd Bot-Battlr/bot-battlr`
 3. Install the required dependencies using `npm install`.
 4. Start the JSON DB server using `json-server --watch db.json --port 8001`.
 5. Start the React development server using `npm start`.
@@ -53,7 +53,7 @@ These additional features are also implemented:
 
 ## Author
 
-This project was created by [Brian Kipkirui]
+This project was created by Brian Kipkirui.
 
 ---
 
